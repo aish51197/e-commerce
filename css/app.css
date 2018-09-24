@@ -1,0 +1,80 @@
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  margin: 0;
+  padding: 0;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header, nav, article, footer,aside,section {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.main-nav{
+background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);}
+.brand-name{
+  color: white;
+  font-variant: small-caps;
+  font-size: 40px;
+}
+
+.search{
+  background: #345455;
+  color: white;
+}
+
+.offer img{
+  box-shadow: 3px 3px 4px #003322;
+}
+
+.facilities{
+  background: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+  color: white;
+}
+
+.icons{
+  font-size: 2rem;
+}
+
+.fac-title{
+  font-family: monospace;
+}
+
+.fac-subtitle{
+  font-family: arial;
+}
+
+.info{
+  background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+  color: white;
+}
+
+.about {
+  font-size: 1.2em;
+}
+
+.social .fab {
+  color: #ddd;
+  opacity: 0.7;
+}
+
+
+.deal-title{
+background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+color: white;
+}
